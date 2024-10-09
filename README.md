@@ -1,7 +1,7 @@
 # Hello everyone! 👋
 
 I'm **Haikal Putra**,  
-a **Web Developer** currently interning at [PT. Amerta Indah Otsuka](https://www.aio.co.id/), where I specialize in **PHP**, **Laravel**, **JavaScript**, **Angular**, and **Node.js**.
+a **Web Developer** currently an intern at [PT. Amerta Indah Otsuka](https://www.aio.co.id/), where I specialize in **PHP**, **Laravel**, **JavaScript**, **Angular**, and **Node.js**.
 
 Feel free to connect with me if you’re interested in my work! You can find me on [LinkedIn](https://www.linkedin.com/in/muhamad-haikal-mulya-putera-3661b1191/).
 
