@@ -1,31 +1,50 @@
-# Hello everyone! 👋
+# Hi, I'm Haikal Putra 👋
 
-I'm **Haikal Putra**,  
-a **Web Developer** currently at [PT. Glostar Indonesia].
+IT Support Software Engineer specializing in Warehouse Management Systems,
+system integration, database investigation, and application support.
 
-Feel free to connect with me if you’re interested in my work! You can find me on [LinkedIn](https://www.linkedin.com/in/muhamad-haikal-mulya-putera-3661b1191/).
+Currently working with WMS, SAP, MES, PostgreSQL, and web technologies
+in the footwear manufacturing industry.
 
-## GitLab Contributions 💼
-- [My GitLab Profile](https://gitlab.com/haikalputra-dev)
+## 🔧 What I Do
 
-## My GitHub Statistics 📊
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikalputra-dev&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+- Troubleshoot WMS application and inventory issues
+- Investigate SAP and MES integration errors
+- Analyze PostgreSQL data and transaction flows
+- Support system deployment and production monitoring
+- Develop internal tools and web applications
 
-## My Programming Languages 💻
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalputra-dev&layout=compact&theme=dark)
+## 🛠️ Tech Stack
 
+Languages:
+JavaScript · TypeScript · PHP · SQL · Python
 
-<!--
-**haikalputra-dev/haikalputra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frameworks:
+AngularJS · Laravel · Node.js
 
-Here are some ideas to get you started:
+Database & Tools:
+PostgreSQL · DBeaver · Git · Docker · Linux · VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems:
+WMS · SAP Integration · MES · REST API
+
+## 🚀 Current Focus
+
+- Building AI-assisted WMS troubleshooting tools
+- Improving system monitoring and incident investigation
+- Learning workflow automation and AI agent development
+
+## 📌 Featured Projects
+
+- WMS Troubleshooting Assistant
+- Cafe Management System
+- Internal Monitoring Tools
+- Web Development Projects
+
+## 📊 GitHub Activity
+
+[GitHub stats card]
+
+## 🤝 Connect With Me
+
+LinkedIn · GitLab · Email
