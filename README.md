@@ -1,50 +1,40 @@
+<div align="center">
+
 # Hi, I'm Haikal Putra 👋
 
-IT Support Software Engineer specializing in Warehouse Management Systems,
-system integration, database investigation, and application support.
+<a href="https://github.com/haikalputra-dev">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=9D7CD8&center=true&vCenter=true&width=650&lines=IT+Support+Software+Engineer;WMS+%7C+SAP+%7C+MES+Integration;PostgreSQL+Troubleshooting;Building+AI-Assisted+Tools"
+    alt="Typing SVG"
+  />
+</a>
 
-Currently working with WMS, SAP, MES, PostgreSQL, and web technologies
-in the footwear manufacturing industry.
+<br>
 
-## 🔧 What I Do
+<img
+  src="https://komarev.com/ghpvc/?username=haikalputra-dev&label=Profile+Views&color=7c3aed&style=for-the-badge"
+  alt="Profile views"
+/>
 
-- Troubleshoot WMS application and inventory issues
-- Investigate SAP and MES integration errors
-- Analyze PostgreSQL data and transaction flows
-- Support system deployment and production monitoring
-- Develop internal tools and web applications
+<img
+  src="https://img.shields.io/github/followers/haikalputra-dev?label=Followers&style=for-the-badge&logo=github&color=7c3aed"
+  alt="GitHub followers"
+/>
 
-## 🛠️ Tech Stack
+</div>
 
-Languages:
-JavaScript · TypeScript · PHP · SQL · Python
+---
 
-Frameworks:
-AngularJS · Laravel · Node.js
+## 👨‍💻 About Me
 
-Database & Tools:
-PostgreSQL · DBeaver · Git · Docker · Linux · VS Code
+```yaml
+name: Haikal Putra
+role: IT Support Software Engineer
+location: Indonesia
 
-Systems:
-WMS · SAP Integration · MES · REST API
-
-## 🚀 Current Focus
-
-- Building AI-assisted WMS troubleshooting tools
-- Improving system monitoring and incident investigation
-- Learning workflow automation and AI agent development
-
-## 📌 Featured Projects
-
-- WMS Troubleshooting Assistant
-- Cafe Management System
-- Internal Monitoring Tools
-- Web Development Projects
-
-## 📊 GitHub Activity
-
-[GitHub stats card]
-
-## 🤝 Connect With Me
-
-LinkedIn · GitLab · Email
+focus:
+  - Warehouse Management System
+  - SAP and MES Integration
+  - PostgreSQL Investigation
+  - Production Troubleshooting
+  - AI-Assisted Development
